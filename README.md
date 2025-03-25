@@ -4,6 +4,8 @@ News about bitcoin mining, altcoin mining, hositng locations, mobile and desktop
 
 All technical news and features from Oneminers 
 
+https://oneminers.com/blogs/news
+
 Updated at @2024, @2025
 
-Main news site https://oneminers.com/blogs/news
+
